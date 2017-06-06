@@ -1,0 +1,17 @@
+body{
+	min-width:960px;
+	margin:0 auto;
+	text-align:center;
+	font-family:Berlin Sans FB;
+	font-size:16px;
+	color:#e543df;
+}
+
+h5{
+	font-size:20px;
+	color:#e3fe3d;
+	line-height:1.3cm;
+	text-align:center;
+	
+	padding:5px 10px;
+}
